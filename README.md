@@ -570,20 +570,6 @@ CMD ["python", "app_ui.py"]
 
 ---
 
-## License
-
-**Proprietary** - For educational/research purposes only.
-
----
-
-## Contact & Support
-
-**Repository**: Aadhar-Part1 (GitHub)  
-**Owner**: Likhithagowda25  
-**Branch**: main
-
----
-
 ## Quick Reference
 
 ### Start Application
@@ -615,6 +601,5 @@ print(result['match_status'])
 
 ---
 
-**Last Updated**: December 11, 2025  
-**Version**: 2.0 (Ultra-Strict Pixel-Perfect Mode)  
+**Last Updated**: December 11, 2025    
 **Status**: Production-ready (local deployment)
