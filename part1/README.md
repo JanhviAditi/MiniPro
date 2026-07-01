@@ -215,11 +215,3 @@ Then select any image from your computer and see the results!
 ## 📄 License
 
 This project is open source and available for educational purposes.
-
-## 👤 Author
-
-Likhithagowda25
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
